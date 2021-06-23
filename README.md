@@ -1,21 +1,15 @@
-- 👋 Hi, I’m @Jigsy1 - or sometimes Jigsy0 - but this is only if Jigsy is already taken ＊shakes fist＊
+I'm Jigsy ( @Jigsy1 ).
 
-- 👀 I’m interested in anime, chess, IRC, Riichi Mahjong, vidya
+1. I like anime, chess, IRC, Riichi Mahjong and video games.
+2. I border somewhere between apathetic and lazy.
+3. I'm currently learning Japanese. (7月2021年には5年間になります。)
+4. I currently do not know any ~~other~~ programming languages, but I do know mSL and like scripting from time to time.
+5. I am only reachable via IRC: Jigsy @ [irc.libera.chat](ircs://irc.libera.chat:6697)
+   - I ***DO NOT*** use Discord, Facebook, Instagram, Signal, Slack, Telegram, Twitter, WhatsApp, etc.
+      - I do have a Matrix account, but use it once every epoch.
 
-- 🌱 I’m currently learning Japanese (2021年の7月には5年間になります)
+###### Other things...
 
-- 📫 I am only reachable via IRC: Jigsy @ irc.libera.chat
-
-- I currently do not know any other programming languages and like scripting in mIRC a lot.
-
-<hr />
-
-I <b>DO NOT USE</b> Discord, Facebook, Instagram, Signal, Slack, Telegram, Twitter, WhatsApp, etc, etc.
-
-- I also hate censorship and value privacy and freedom of artistic expression/speech/thought, etc.
-- I also play on Mahjong Soul a lot.
-
-<!---
-Jigsy1/Jigsy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. I'm staunchly anti-censorship and value privacy and rights in this increasingly insane world.
+2. I play on Mahjong Soul a lot.
+3. Sometimes I like to lie on the ground and pretend I'm a carrot.
