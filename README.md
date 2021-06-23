@@ -6,6 +6,8 @@
 
 - 📫 I am only reachable via IRC: Jigsy @ irc.libera.chat
 
+- I currently do not know any other programming languages and like scripting in mIRC a lot.
+
 <hr />
 
 I <b>DO NOT USE</b> Discord, Facebook, Instagram, Signal, Slack, Telegram, Twitter, WhatsApp, etc, etc.
