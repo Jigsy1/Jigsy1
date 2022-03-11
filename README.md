@@ -2,7 +2,7 @@ I'm Jigsy ( @Jigsy1 ).
 
 1. I like Anime, Chess, Coffee, IRC, Riichi Mahjong and Video Games.
 2. I border somewhere between apathetic and lazy.
-3. I'm currently learning Japanese. (7月2021年には5年間になります。)
+3. I'm currently learning Japanese. (7月2022年には6年間になります。)
 4. I currently do not know any ~~other~~ programming languages, but I do know mSL and like scripting from time to time.
 5. I am only reachable via IRC: Jigsy @ irc.libera.chat
    - I ***AM NOT ON / DO NOT USE*** ... Discord, Facebook, Instagram, LinkedIn, Signal, Slack, Teams, Telegram, TikTok, Twitter, WhatsApp, etc.¹
