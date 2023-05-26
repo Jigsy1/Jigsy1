@@ -10,6 +10,7 @@ I'm Jigsy ( @Jigsy1 ).
 5. I am only reachable via IRC: Jigsy @ irc.libera.chat
    - I ***AM NOT ON / DO NOT USE / WILL NOT USE*** ... Discord, Facebook, Instagram, LinkedIn, Signal, Slack, Teams, Telegram, TikTok, Twitter, WhatsApp, etc.¹
       - I ***DO*** have a Matrix account, but only use it once every epoch. (If ever.)
+      - I ***DO*** have an interest in Session Instant Messenger as well. (No "account" / not currently in use.)
 
 ###### Other things...
 
