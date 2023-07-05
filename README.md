@@ -3,7 +3,7 @@ I'm Jigsy ( @Jigsy1 ).
 1. I like Anime, Chess, Coffee, IRC, Riichi Mahjong and Video Games.
    - Sleeping also counts, right? Right?
 2. I border somewhere between apathetic and lazy.
-3. I'm currently learning Japanese. (7月2023年には7年間になります。)
+3. I'm currently learning Japanese. (7月2024年には8年間になります。)
 4. I currently do not know any ~~other~~ programming languages, but I do know mSL (mIRC Scripting Language) and like scripting from time to time.
    - I do know some (simple) VB6 from my college years. (2003->2007)
       - I am now learning C and Python. (2023->?)
