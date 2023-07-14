@@ -30,4 +30,5 @@ I'm Jigsy ( @Jigsy1 ).
 ###### Footnotes:
 
 <sup>1</sup> This list is not exhaustive.
+
 <sup>2</sup> This is a contingency because of the UK and their stupid Online "Safety" Bill. (My hash is on a need-to-know basis.)
