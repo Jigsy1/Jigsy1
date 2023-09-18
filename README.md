@@ -8,18 +8,19 @@ I'm Jigsy ( @Jigsy1 ).
 4. I currently do not know any ~~other~~ programming languages, but I do know mSL (mIRC Scripting Language) and like scripting from time to time.
    - I do know some (simple) VB6 from my college years. (2003->2007)
       - I am ~~now~~ still learning C and Python. (2023->?)
-         - And to make life even more complicated, Go.
+         - And to make life even more complicated, Go. (2023->?)
 5. I am only reachable via IRC: Jigsy @ irc.libera.chat
    - I ***AM NOT ON / DO NOT USE / WILL NOT USE*** ... Discord, Facebook, Instagram, LinkedIn, Signal, Slack, Teams, Telegram, TikTok, Twitter, WhatsApp, etc.<sup>1</sup>
       - I ***DO*** have a Matrix account, but only use it once every epoch. (If ever.)
-      - I ***DO*** have an "account" in Session Instant Messenger as well.<sup>2</sup>
+      - I ***DO*** have an "account" in <a href="https://getsession.org/download" target="_blank" title="Session Instant Messenger">Session Instant Messenger</a> as well.<sup>2</sup>
 
 ###### Ongoing projects (not on Github as of yet)
 
-1. An IRCd in Python
-2. Improving/Recoding JupeServ (Aka. pyServer)
-3. Lite IRC Services in Python
-4. pyBot (Client)
+1. mIRCd (Rev.3)
+2. An IRCd in Python
+3. Improving/Recoding JupeServ (Aka. pyServer)
+4. Lite IRC Services in Python
+5. pyBot (Client)
 
 ###### Other things...
 
