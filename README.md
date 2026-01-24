@@ -1,6 +1,6 @@
 I'm Jigsy ( @Jigsy1 ).
 
-1. I like Anime, Chess, Coffee, IRC, Riichi Mahjong and Video Games.
+1. I like Anime, Chess, Coffee, IRC, Linux, Riichi Mahjong and Video Games.
    - Sleeping also counts, right? Right?
    - I've recently taken to generating AI artwork.
 2. I border somewhere between apathetic and lazy.
@@ -30,6 +30,7 @@ I'm Jigsy ( @Jigsy1 ).
 2. I play on <a href="https://mahjongsoul.game.yo-star.com/" target="_blank" title="Mahjong Soul">Mahjong Soul</a> a lot.
    - I've recently started learning <a href="https://lishogi.org/" target="_blank" title="Lishogi">Shogi</a> too.
 3. Sometimes I like to lie on the ground and pretend I'm a carrot.
+4. I no longer use Windows. I use Linux Mint.
 
 ###### Footnotes:
 
