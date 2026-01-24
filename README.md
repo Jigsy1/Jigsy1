@@ -12,7 +12,7 @@ I'm Jigsy ( @Jigsy1 ).
 5. I am only reachable via IRC: Jigsy @ irc.libera.chat
    - I ***AM NOT ON / DO NOT USE / WILL NOT USE*** ... Discord, Facebook, Instagram, LinkedIn, Signal, Slack, Teams, Telegram, TikTok, Twitter, WhatsApp, etc.<sup>1</sup>
       - I ***DO*** have a Matrix account, but only use it once every epoch. (If ever.)
-      - I ***DO*** have an "account" in <a href="https://getsession.org/download" target="_blank" title="Session Instant Messenger">Session Instant Messenger</a> as well.<sup>2</sup>
+      - I ***DO*** have an "account" in <a href="https://github.com/session-foundation/session-desktop" target="_blank" title="Session Instant Messenger">Session Instant Messenger</a> as well.<sup>2</sup>
 
 ###### Ongoing projects (not on Github as of yet)
 
