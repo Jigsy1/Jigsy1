@@ -7,8 +7,8 @@ I'm Jigsy ( @Jigsy1 ).
 3. I'm currently learning Japanese. (7月2026年には10年間になります。)
 4. I roughly know a few programming languages; but I mainly know mSL (mIRC Scripting Language) and like scripting pointless things from time to time.
    - I do know some (simple) VB6 from my college years. (2003->2007)
-      - I am ~~now~~ still learning C and Python. (on hold)
-         - And to make life even more complicated, Go (on hold) and Rust. (on hold)
+      - I am ~~now~~ still learning C (on hold) and Python.
+         - And to make life even more complicated, Go (on hold), JavaScript and Rust. (On hold.)
 5. I am only reachable via IRC: Jigsy @ irc.libera.chat
    - I ***AM NOT ON / DO NOT USE / WILL NOT USE*** ... Discord, Facebook, Instagram, LinkedIn, Signal, Slack, Teams, Telegram, TikTok, Twitter, WhatsApp, etc.<sup>1</sup>
       - I ***DO*** have a Matrix account, but only use it once every epoch. (If ever.)
