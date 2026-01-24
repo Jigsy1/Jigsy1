@@ -4,17 +4,19 @@ I'm Jigsy ( @Jigsy1 ).
    - Sleeping also counts, right? Right?
    - I've recently taken to generating AI artwork.
 2. I border somewhere between apathetic and lazy.
-3. I'm currently learning Japanese. (7月2024年には8年間になります。)
+3. I'm currently learning Japanese. (7月2026年には10年間になります。)
 4. I roughly know a few programming languages; but I mainly know mSL (mIRC Scripting Language) and like scripting pointless things from time to time.
    - I do know some (simple) VB6 from my college years. (2003->2007)
-      - I am ~~now~~ still learning C and Python. (2023->?)
-         - And to make life even more complicated, Go (on hold) and Rust. (2023->?)
+      - I am ~~now~~ still learning C and Python. (on hold)
+         - And to make life even more complicated, Go (on hold) and Rust. (on hold)
 5. I am only reachable via IRC: Jigsy @ irc.libera.chat
    - I ***AM NOT ON / DO NOT USE / WILL NOT USE*** ... Discord, Facebook, Instagram, LinkedIn, Signal, Slack, Teams, Telegram, TikTok, Twitter, WhatsApp, etc.<sup>1</sup>
       - I ***DO*** have a Matrix account, but only use it once every epoch. (If ever.)
       - I ***DO*** have an "account" in <a href="https://getsession.org/download" target="_blank" title="Session Instant Messenger">Session Instant Messenger</a> as well.<sup>2</sup>
 
 ###### Ongoing projects (not on Github as of yet)
+
+***DUE TO CIRCUMSTANCES BEYOND MY CONTROL, ALL PROJECTS ARE CURRENTLY ON HOLD UNTIL FURTHER NOTICE****
 
 1. mIRCd (Rev.3)
 2. An IRCd in Python
@@ -33,4 +35,4 @@ I'm Jigsy ( @Jigsy1 ).
 
 <sup>1</sup> This list is not exhaustive.
 
-<sup>2</sup> This is a contingency because of the UK and their stupid <a href="https://en.wikipedia.org/wiki/Online_Safety_Act_2023" target="_blank" title="Wikipedia">online censorship bill</a>. (My hash is on a need-to-know basis.)
+<sup>2</sup> This is a contingency because of the UK and their stupid <a href="https://en.wikipedia.org/wiki/Online_Safety_Act_2023" target="_blank" title="Wikipedia">online censorship bill</a>. (My hash is on a need-to-know basis. Unless I've known you for a very long time, you don't need to know.)
