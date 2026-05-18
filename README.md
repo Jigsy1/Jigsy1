@@ -19,7 +19,7 @@ I'm Jigsy ( @Jigsy1 ).
 ***DUE TO CIRCUMSTANCES BEYOND MY CONTROL, ALL PROJECTS ARE CURRENTLY ON HOLD UNTIL FURTHER NOTICE***
 
 1. mIRCd (Rev.3)
-2. An IRCd in Python ***CODE LOST***
+2. An IRCd in Python (***CODE LOST***)
 3. Improving/Recoding JupeServ (Aka. pyServer)
 4. Lite IRC Services in Python
 5. pyBot (Client)
