@@ -30,7 +30,7 @@ I'm Jigsy ( @Jigsy1 ).
 2. I play on <a href="https://mahjongsoul.game.yo-star.com/" target="_blank" title="Mahjong Soul">Mahjong Soul</a> a lot.
    - I've recently started learning <a href="https://lishogi.org/" target="_blank" title="Lishogi">Shogi</a> too.
 3. Sometimes I like to lie on the ground and pretend I'm a carrot.
-4. I was trying to shift away from Windows prior to 2024 and now no longer use Windows entirely. I'm now using <a href="https://www.linuxmint.com/download.php" target="_blank">Linux Mint</a>.
+4. I was trying to shift away from Windows prior to 2024 because of how invasive it's become and now no longer use Windows entirely. I'm using <a href="https://www.linuxmint.com/download.php" target="_blank">Linux Mint</a> instead. (Though admittedly I was using Xubuntu for a little while, but I don't care for the snappification of Ubuntu.)
 
 ###### Footnotes:
 
