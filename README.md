@@ -12,7 +12,6 @@ I'm Jigsy ( @Jigsy1 ).
 5. I am only reachable via IRC: Jigsy @ irc.libera.chat
    - I ***AM NOT ON / DO NOT USE / WILL NOT USE*** ... Discord, Facebook, Instagram, LinkedIn, Signal, Slack, Teams, Telegram, TikTok, Twitter, WhatsApp, etc.<sup>1</sup>
       - I ***DO*** have a Matrix account, but only use it once every epoch. (If ever.)
-      - I ***DO*** have an "account" in <a href="https://github.com/session-foundation/session-desktop" target="_blank" title="Session Instant Messenger">Session Instant Messenger</a> as well.<sup>2</sup>
 
 ###### Ongoing projects (not on Github as of yet)
 
@@ -30,10 +29,8 @@ I'm Jigsy ( @Jigsy1 ).
 2. I play on <a href="https://mahjongsoul.game.yo-star.com/" target="_blank" title="Mahjong Soul">Mahjong Soul</a> a lot.
    - I've recently started learning <a href="https://lishogi.org/" target="_blank" title="Lishogi">Shogi</a> too.
 3. Sometimes I like to lie on the ground and pretend I'm a carrot.
-4. I was trying to shift away from Windows prior to 2024 because of how invasive it's become and now no longer use Windows entirely. I'm using <a href="https://www.linuxmint.com/download.php" target="_blank">Linux Mint</a> instead. (Though admittedly I was using Xubuntu for a little while, but I don't care for the snappification of Ubuntu.)
+4. I was trying to shift away from Windows prior to 2024 because of how invasive it's become (telemetry, spyware, ads) and now no longer use Windows entirely! I'm using <a href="https://www.linuxmint.com/download.php" target="_blank">Linux Mint</a> instead.
 
 ###### Footnotes:
 
 <sup>1</sup> This list is not exhaustive.
-
-<sup>2</sup> This is a contingency because of the UK and their stupid <a href="https://en.wikipedia.org/wiki/Online_Safety_Act_2023" target="_blank" title="Wikipedia">online censorship bill</a>. (My hash is on a need-to-know basis. Unless I've known you for a very long time, you don't need to know.)
