@@ -4,7 +4,7 @@ I'm Jigsy ( @Jigsy1 ).
    - Sleeping also counts, right? Right?
    - I've recently taken to generating anime artwork.
 2. I border somewhere between apathetic and lazy.
-3. I'm currently learning Japanese. (7月2026年には10年間になります。)
+3. I'm currently learning Japanese. (7月2027年には11年間になります。)
 4. I roughly know a few programming languages; but I mainly know mSL (mIRC Scripting Language) and like scripting pointless things from time to time.
    - I do know some (simple) VB6 from my college years. (2003->2007)
       - I am still learning C (on hold) and Python.
